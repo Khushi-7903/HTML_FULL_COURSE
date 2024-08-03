@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 
 - I am a recent **BCA graduate** with first-class honors, specializing in full-stack web development. I have hands-on experience with HTML, CSS, JavaScript, jQuery, and Bootstrap, and I'm passionate about crafting dynamic and responsive websites. I'm currently pursuing advanced training in full-stack development to further deepen my expertise. Let's build something amazing together!
