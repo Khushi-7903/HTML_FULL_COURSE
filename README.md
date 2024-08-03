@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Full stack developer couse**
+- 🌱 I’m currently learning **Full stack developer course**
 
 - 📫 How to reach me **patelkhushi7041@gmail.com**
 
